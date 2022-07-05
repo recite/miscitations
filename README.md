@@ -47,7 +47,7 @@ additional notes: information about the randomly selected article and the citati
 * How central is the citation to the claims in the paper?
 
 * Quality of evidence ...
-	* Empirical results vs. not [vs. anecdata vs. think pieces]
+	* Empirical results vs. not [vs. anecdata vs. think pieces] - Was data collected or analyzed
 	* Quality of empirical results
 		* external validity
 		* internal validity
