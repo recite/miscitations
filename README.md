@@ -7,32 +7,42 @@
 
 * Hunger/Low blood glucose levels/etc.: "Our data consist of 1,112 judicial rulings, collected over 50 d in a 10-mo period, by eight Jewish-Israeli judges (two females) who preside over two different parole boards that serve four major prisons in Israel." https://www.pnas.org/doi/10.1073/pnas.1018033108#fig01 see also: http://journal.sjdm.org/16/16823/jdm16823.html
 
-## Research Design
+## Miscitation of empirical research in prominent health science review articles
 
 Problem: 
 
 - Scientists rely on published research to create new research.
 - They cite other research to support claims in service of creating new research.  
 - Their interpretation of cited research is wrong in some cases.
-- It remains unclear how often this occurs.
+- There have been studies in specific fields that show that the error rate is anywhere between 12 and 20%
+- most of this work has focused in specific disciplines and samples of citations that are broad
+- one type of citation that has yet to be examined are those that are contained in health science review articles
+- these are important because of the role they play in shaping broad understanding on important topics
+- in addition, there has yet to be a focus on citations of empirical research
+- when researchers cite empirical research there are some common errors that can be made:
+	failing to qualify the generalizability of results based on sample size or sample characteristics, 
+	citing results in a way that suggests causation when the evidence only supports association, 
+	citing results in a way that suggests directionality in an association when the evidence does not support this, 
+	citing a study as if it were a primary study when it is a summary or a citation itself, etc.
 
-Research question: How often are citations to empirical claims incorrect?
+Research question: How often are citations to empirical claims within review papers published in JAMA, NEJM, and Lancet misleading/incorrect?
 
-Target population: Citations within articles published in the last 5 years in JAMA, NEJM, and Lancet
+Target population: Citations within review articles published in the last 5 years in JAMA, NEJM, and Lancet
 
-Sample: 100 randomly selected articles published in the last 5 years from each of JAMA, NEJM, and Lancet (300 total articles)
+Sample: 10 randomly selected citations from 50 randomly selected review articles published in the last 5 years from each of JAMA, NEJM, and Lancet (1500 total citations)
 
-Method: 
+Method: Retrospective descriptive design
 
-1. randomly select 100 articles from each journal
-2. define a coding protocol
-3. test the coding protocol on 15 citations - one from the first 5 randomly selected articles from each of JAMA, NEJM, and Lancet
-	- articles will be independently coded by 3 research assistants and two PIs
-4. adjust coding protocol based on testing
-5. test on 6 more citations - 2 from each journal - 3 research assistants
-6. code remaining articles
+Procedure: 
 
-additional notes: information about the randomly selected article and the citation will be extracted during the coding process
+1. randomly select 50 review articles from each journal
+2. randomly select 10 citations from each article
+3. extract citation text (sentence before and after)
+4. code citation as empirical or not
+5. if empirical, find and download the cited paper
+6. code cited paper as primary empirical or not
+7. extract citation information including journal published in, sample characteristics (size, main demos), sampling strategy (random selection v non-random selection), research design (RCT v observational (correlational or descriptive)), primary result)
+8. code the citation as correct or incorrect
 
 
 ### Why do people do it?
