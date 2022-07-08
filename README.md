@@ -42,7 +42,7 @@ Procedure:
 5. if empirical, find and download the cited paper
 6. code cited paper as primary empirical or not
 7. extract citation information including journal published in, sample characteristics (size, main demos), sampling strategy (random selection v non-random selection), research design (RCT v observational (correlational or descriptive)), primary result)
-8. code the citation as correct or incorrect
+8. code the citation as correct or incorrect based on the reasons described above
 
 
 ### Why do people do it?
