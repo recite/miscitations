@@ -7,4 +7,4 @@ library(doBy)
 
 misc_lng<-reshape(misc, direction = "long", varying = list(names(misc)[75:89]), idvar = "randid")
 
-write.csv(misc_lng, file = "review_sample.csv", row.names = FALSE)
+write.csv(misc_lng, file = "data/review_sample.csv", row.names = FALSE)
