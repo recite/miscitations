@@ -1,6 +1,8 @@
 ## A Citation For Miscitation: Estimating the Frequency of Miscitations in Review Articles
 
-Sir Isaac Newton famously described progress in science as ``If I have seen further, it is by standing on the shoulders of giants.''  Scientists rely on other research to create new research.
+``If I have seen further, it is by standing on the shoulders of giants.'' --- Isaac Newton. 
+
+Like Isaac Newton, all other scientists rely on other research to create new research. They acknowledge that debt by citing the research. But sometimes scientists summarize what they cite incorrectly. Building on other work on this topic, we study the frequency and character of such errors in one consequential piece of research---review articles in top journals.
 
 ## Bad Citations
 
