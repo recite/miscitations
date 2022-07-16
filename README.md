@@ -2,9 +2,13 @@
 
 ``If I have seen further, it is by standing on the shoulders of giants.'' --- Isaac Newton. 
 
-Like Isaac Newton, all other scientists rely on other research to create new research. They acknowledge that debt by citing the research. But sometimes scientists summarize what they cite incorrectly. Building on other work on this topic, we study the frequency and character of such errors in one consequential piece of research---review articles in top journals.
+Like Isaac Newton, all other scientists rely on other research to create new research. They acknowledge that debt by citing the research. But sometimes scientists summarize what they cite incorrectly. Building on other work on this topic, we study the frequency and character of such errors in one consequential piece of research---review articles in top health related journals. We assemble a dataset of YY review articles over the last X years from three top health journals: New Englance Journal of Medicine (NEJM), Lancet, and Journal of the American Medical Association (JAMA). Coding a XXX random sample of citations, we find that Y% of the citations tend to be inflationary, exaggerating the generalizability or consistency of effects and Z% of the citations misstate observational studies as causal.
 
 ## Bad Citations
+
+There is a pattern to how scientists miscite research. One of the patterns is inflation---optimistically summarizing the research. The optimism is expressed in three major ways---1. implifying the research design has no major weaknesses, e.g., summarizing a study of seven people without noting any issues (cite Noise), 2. implying the results are generalizable to a broader population than on which the study was conducted, e.g., a study of American college undergraduates being summarized as a broad claim about humanity, 3. implying the magnitude of the effect is much larger than it is, e.g., anemia is one of the main reasons for why children have poor grades in Canada.
+
+### Examples
 
 * book: "when the same software developers were asked on two separate days to estimate the completion time for the same task, the hours they projected differed by 71%, on average." paper: "In this paper, we report from an experiment where seven experienced software professionals estimated the same sixty software development tasks over a period of three months. Six of the sixty tasks were estimated twice. We found a high degree of inconsistency in the software professionals’ effort estimates. The mean difference of the effort estimates of the same task by the same estimator was as much as 71%. The correlation between the corresponding estimates was 0.7." https://www.sciencedirect.com/science/article/abs/pii/S0164121207000714
 
@@ -27,6 +31,8 @@ Problem:
 	citing results in a way that suggests causation when the evidence only supports association, 
 	citing results in a way that suggests directionality in an association when the evidence does not support this, 
 	citing a study as if it were a primary study when it is a summary or a citation itself, etc.
+
+### Data and Methods
 
 Research question: How often are citations to empirical claims within review papers published in JAMA, NEJM, and Lancet misleading/incorrect?
 
